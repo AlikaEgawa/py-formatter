@@ -1,0 +1,44 @@
+{
+    "dict": "quotation_format_options",
+    "items": [
+        {
+            "id": 1,
+            "quote_id" : "SJPTXXXXXX",
+            "quote_info" : [
+                {
+                    "customer": "test Inc. Ltd.,",
+                    "origin_country": "France",
+                    "pol": "Le Havre",
+                    "pod": "Tokyo",
+                    "ctr_type" : "40'Reefer",
+                    "shipper" : [
+                        {
+                            "shipper1" : "test wine brewery",
+                            "shipper2" : "test spirits seller"
+                        }
+                    ],
+                    "revised" : false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "quote_id" : "SJPTYYYYY",
+            "quote_info" : [
+                {
+                    "customer": "sample corp",
+                    "origin_country": "Italy",
+                    "pol": "La Spezia",
+                    "pod": "Yokohama",
+                    "ctr_type" : "20'Dry",
+                    "shipper" : [
+                        {
+                            "shipper1" : "DRUNK DRUNK BREWERY"
+                        }
+                    ],
+                    "revised" : true
+                }
+            ]
+        }
+    ]
+}
